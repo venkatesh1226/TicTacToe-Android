@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="preference_file_key">SharedPref</string>
+    <string name="Total">Total</string>
+    <string name="Win">Win</string>
+    <string name="Lose">Lose</string>
+</resources>
