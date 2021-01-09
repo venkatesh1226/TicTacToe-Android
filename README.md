@@ -1,4 +1,5 @@
 # TicTacToe-Android
+![Demo](https://user-images.githubusercontent.com/51997864/104094783-09b1b280-52b9-11eb-83d2-ce7f53a4799e.mp4)
 ![Home](https://user-images.githubusercontent.com/51997864/104091439-5d190600-52a3-11eb-9fa1-4a05b9a13b0e.png)
 ![Lost](https://user-images.githubusercontent.com/51997864/104091443-673b0480-52a3-11eb-85f9-ee8bb3e07691.png)
 ![Draw](https://user-images.githubusercontent.com/51997864/104091446-6d30e580-52a3-11eb-965a-335bc5f81e78.png)
