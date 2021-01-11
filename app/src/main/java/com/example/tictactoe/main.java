@@ -42,13 +42,14 @@ public class main {
         return -1;
     }
     int[] checkDiagnol() {
-        if (d1() == true && d2() == true) {
+        if (d1()) {
             if (board[1][1] == board[2][2] && board[1][1] != " ")
                 return new int[]{0, 0};
             if (board[1][1] == board[0][0] && board[1][1] != " ")
                 return new int[]{2, 2};
             if (board[0][0] == board[2][2] && board[0][0] != " ")
-                return new int[]{1, 1};
+                return new int[]{1, 1};}
+        if(d2()){
             if (board[0][2] == board[1][1] && board[1][1] != " ")
                 return new int[]{2, 0};
             if (board[0][2] == board[2][0] && board[2][0] != " ")
